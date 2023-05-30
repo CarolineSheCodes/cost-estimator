@@ -1,1 +1,1 @@
-# cost-estimator
+# cost-estimator project from Colt Steel's HTML & CSS Bootcamp was a great way to learn about cards, wrappers and positioning items and content in a pleasing way on the web page. It is a static site with no JS so there is no functionality for the buttons or slider. It is a responsive site with 2 break points for screen sizes. 
